@@ -1,0 +1,7262 @@
+{
+ "table_rows": [
+  [
+   "Subnetwork", 
+   "", 
+   "", 
+   ""
+  ], 
+  [
+   "KEAP1", 
+   "", 
+   "", 
+   ""
+  ], 
+  [
+   "NFE2L2", 
+   "", 
+   "", 
+   ""
+  ], 
+  [
+   "BPTF", 
+   "", 
+   "", 
+   ""
+  ], 
+  [
+   "CHD6", 
+   "", 
+   "", 
+   ""
+  ], 
+  [
+   "PTMA", 
+   "", 
+   "", 
+   ""
+  ], 
+  [
+   "RBM45", 
+   "", 
+   "", 
+   ""
+  ], 
+  [
+   "SLK", 
+   "", 
+   "", 
+   ""
+  ], 
+  [
+   "WAC", 
+   "", 
+   "", 
+   ""
+  ]
+ ], 
+ "links": [
+  {
+   "source": 0, 
+   "target": 0, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 0, 
+   "target": 1, 
+   "network": "HINT"
+  }, 
+  {
+   "source": 0, 
+   "target": 1, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 0, 
+   "target": 2, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 0, 
+   "target": 3, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 0, 
+   "target": 4, 
+   "network": "HINT"
+  }, 
+  {
+   "source": 0, 
+   "target": 5, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 0, 
+   "target": 6, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 0, 
+   "target": 7, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 1, 
+   "target": 0, 
+   "network": "HINT"
+  }, 
+  {
+   "source": 1, 
+   "target": 0, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 1, 
+   "target": 2, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 1, 
+   "target": 3, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 1, 
+   "target": 4, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 1, 
+   "target": 5, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 1, 
+   "target": 6, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 1, 
+   "target": 7, 
+   "network": "HINT"
+  }, 
+  {
+   "source": 1, 
+   "target": 7, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 2, 
+   "target": 2, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 2, 
+   "target": 3, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 2, 
+   "target": 4, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 2, 
+   "target": 6, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 3, 
+   "target": 0, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 3, 
+   "target": 1, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 3, 
+   "target": 2, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 3, 
+   "target": 4, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 3, 
+   "target": 5, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 3, 
+   "target": 6, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 3, 
+   "target": 7, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 4, 
+   "target": 0, 
+   "network": "HINT"
+  }, 
+  {
+   "source": 4, 
+   "target": 0, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 4, 
+   "target": 2, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 4, 
+   "target": 4, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 4, 
+   "target": 5, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 4, 
+   "target": 6, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 5, 
+   "target": 0, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 5, 
+   "target": 1, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 5, 
+   "target": 2, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 5, 
+   "target": 3, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 5, 
+   "target": 4, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 5, 
+   "target": 5, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 5, 
+   "target": 6, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 5, 
+   "target": 7, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 6, 
+   "target": 2, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 6, 
+   "target": 3, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 6, 
+   "target": 4, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 6, 
+   "target": 5, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 6, 
+   "target": 6, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 6, 
+   "target": 7, 
+   "network": "DOG"
+  }, 
+  {
+   "source": 7, 
+   "target": 0, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 7, 
+   "target": 1, 
+   "network": "HINT"
+  }, 
+  {
+   "source": 7, 
+   "target": 1, 
+   "network": "BIRD"
+  }, 
+  {
+   "source": 7, 
+   "target": 2, 
+   "network": "FISH"
+  }, 
+  {
+   "source": 7, 
+   "target": 3, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 7, 
+   "target": 4, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 7, 
+   "target": 5, 
+   "network": "CAT"
+  }, 
+  {
+   "source": 7, 
+   "target": 7, 
+   "network": "DOG"
+  }
+ ], 
+ "infobox": {
+  "images": [], 
+  "description": "The fourth most mutated consensus subnetwork (10.3% of all samples) includes KEAP1, NFE2L2, BPTF, CHD6, PTMA, RBM45, SLK, and WAC. This subnetwork is mutated in at least 10 samples of each cancer type with the exception of LAML (3 mutated samples). NFE2L2 is a transcription factor that modulates the response to oxidative stress and is normally sequestered in the cytoplasm by KEAP1 [38].", 
+  "figure": "S9", 
+  "name": "NFE2L2, KEAP1, and neighbors"
+ }, 
+ "samples": [
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A16J", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-D1-A16J", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AG-A036", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-AG-A036", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-22-4604", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-22-4604", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-A5-A0G9", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-A5-A0G9", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-22-4601", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-22-4601", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B8-4621", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-B8-4621", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-5978", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-CV-5978", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-FD-A3B7", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-FD-A3B7", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A16E", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-D1-A16E", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AA-3696", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-AA-3696", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AG-3999", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AG-3999", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-61-2008", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-61-2008", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z008", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-17-Z008", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-43-6143", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-43-6143", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-6745", 
+     "gene": "RBM45"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-6745", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-49-6745", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-A6-2670", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-A6-2670", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-G2-A2EJ", 
+     "gene": "WAC"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-G2-A2EJ", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-G2-A2EJ", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-6742", 
+     "gene": "RBM45"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-6742", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-49-6742", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z001", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-17-Z001", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-BH-A0H7", 
+     "cna": "amp", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-BH-A0H7", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-BP-5178", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-BP-5178", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-D8-A1JP", 
+     "gene": "RBM45"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-D8-A1JP", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-D8-A1JP", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AG-A01W", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-AG-A01W", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-22-0944", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-22-0944", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-34-2608", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-34-2608", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A163", 
+     "gene": "WAC"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A163", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-D1-A163", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Ins", 
+     "inactivating": true, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-BS-A0TE", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-BS-A0TE", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-13-0755", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-13-0755", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7177", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-7177", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-EY-A212", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "UCEC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-EY-A212", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-BS-A0TA", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-BS-A0TA", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-CJ-4899", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-CJ-4899", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-18-3417", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-18-3417", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-37-4133", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-37-4133", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-BH-A0E0", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-BH-A0E0", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-A5-A0GN", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-A5-A0GN", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-GI-A2C8", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-GI-A2C8", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-37-4135", 
+     "gene": "NFE2L2"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-37-4135", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-37-4135", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-H7-7774", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-H7-7774", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-4486", 
+     "gene": "CHD6"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-4486", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-49-4486", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-4487", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-49-4487", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-6776", 
+     "gene": "KEAP1"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-6776", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-44-6776", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-67-3774", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-67-3774", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2795", 
+     "gene": "BPTF"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2795", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-66-2795", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-BG-A0LX", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-BG-A0LX", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7099", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-7099", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-6779", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-44-6779", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-6778", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-44-6778", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-4488", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-49-4488", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CR-6491", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-CR-6491", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CR-6492", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-CR-6492", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-50-5051", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-50-5051", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-4112", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-44-4112", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "OV", 
+     "sample": "TCGA-23-1031", 
+     "gene": "PTMA"
+    }
+   ], 
+   "name": "TCGA-23-1031", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z033", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-17-Z033", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-E2-A14P", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "BRCA", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-E2-A14P", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-6951", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-6951", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-BA-7269", 
+     "gene": "NFE2L2"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-BA-7269", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-BA-7269", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-6955", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-6955", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-BK-A0C9", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-BK-A0C9", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-BH-A0H9", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "BRCA", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-BH-A0H9", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B0-5097", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-B0-5097", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-21-1077", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-21-1077", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-76-4928", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-76-4928", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7104", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-CV-7104", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-43-2578", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-43-2578", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-21-1071", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-21-1071", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-22-5482", 
+     "gene": "BPTF"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "In_Frame_Del", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-22-5482", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-22-5482", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-22-5480", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-22-5480", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-46-3768", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-46-3768", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-DK-A1AE", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-DK-A1AE", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-BP-5001", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-BP-5001", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-DK-A1AG", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-DK-A1AG", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-DK-A1AF", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-DK-A1AF", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-18-5595", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-18-5595", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Ins", 
+     "inactivating": true, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-CW-5580", 
+     "gene": "RBM45"
+    }
+   ], 
+   "name": "TCGA-CW-5580", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B0-4823", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-B0-4823", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AG-3612", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AG-3612", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-46-3767", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-46-3767", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-46-3765", 
+     "cna": "amp", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-46-3765", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-18-5592", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-18-5592", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-C8-A12W", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "BRCA", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-C8-A12W", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-76-6193", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-76-6193", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-34-5236", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-34-5236", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-06-2563", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-06-2563", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-27-1835", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-27-1835", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-BT-A3PK", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-BT-A3PK", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Ins", 
+     "inactivating": true, 
+     "cancer": "LAML", 
+     "sample": "TCGA-AB-3009", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-AB-3009", 
+   "cancer": "LAML"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-BB-7870", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-BB-7870", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-AX-A05T", 
+     "gene": "PTMA"
+    }
+   ], 
+   "name": "TCGA-AX-A05T", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Ins", 
+     "inactivating": true, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-33-4532", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-33-4532", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-AX-A05W", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-AX-A05W", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-41-2575", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-41-2575", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z023", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-17-Z023", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CQ-5324", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CQ-5324", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-22-5477", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-22-5477", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-22-5477", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-33-4538", 
+     "gene": "KEAP1"
+    }, 
+    {
+     "sample": "TCGA-33-4538", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-33-4538", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AG-3901", 
+     "gene": "RBM45"
+    }
+   ], 
+   "name": "TCGA-AG-3901", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-56-5898", 
+     "gene": "RBM45"
+    }
+   ], 
+   "name": "TCGA-56-5898", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-51-4079", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-51-4079", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-6942", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-6942", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-CV-6941", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "HNSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-CV-6941", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2754", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-66-2754", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-6146", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-44-6146", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AA-A01I", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-AA-A01I", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-60-2722", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-60-2722", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-60-2723", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-60-2723", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-A5-A0GW", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-A5-A0GW", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A17B", 
+     "gene": "RBM45"
+    }
+   ], 
+   "name": "TCGA-D1-A17B", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-25-1317", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-25-1317", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CN-6021", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-CN-6021", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-66-2759", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-66-2759", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-66-2758", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-66-2758", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "In_Frame_Del", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-32-2632", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-32-2632", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-24-1466", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "OV", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-24-1466", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-A5-A0GH", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-A5-A0GH", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-50-5939", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-50-5939", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-A5-A0GJ", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-A5-A0GJ", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-A5-A0GE", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-A5-A0GE", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-50-5936", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-50-5936", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B0-5701", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-B0-5701", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-24-1469", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-24-1469", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "In_Frame_Del", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-E9-A1R6", 
+     "gene": "PTMA"
+    }
+   ], 
+   "name": "TCGA-E9-A1R6", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-50-5931", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-50-5931", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-CZ-4853", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-CZ-4853", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-B5-A0JZ", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-B5-A0JZ", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-18-3415", 
+     "cna": "amp", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-18-3415", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-B5-A0JT", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-B5-A0JT", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-6144", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-44-6144", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-22-5474", 
+     "cna": "amp", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-22-5474", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-CJ-4881", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-CJ-4881", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-50-6592", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-50-6592", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7437", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-7437", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-BH-A0BR", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-BH-A0BR", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7433", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-7433", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A17U", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-D1-A17U", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-18-4086", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-18-4086", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CQ-6219", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-CQ-6219", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z057", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-17-Z057", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-75-6211", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-75-6211", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-12-0692", 
+     "gene": "RBM45"
+    }
+   ], 
+   "name": "TCGA-12-0692", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "In_Frame_Del", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A160", 
+     "gene": "BPTF"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A160", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-D1-A160", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-39-5037", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-39-5037", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-BS-A0U7", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-BS-A0U7", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-05-4389", 
+     "gene": "WAC"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-05-4389", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-05-4389", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "In_Frame_Del", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-05-4422", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-05-4422", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-66-2766", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2766", 
+     "cna": "amp", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-66-2766", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7238", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-CV-7238", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-66-2727", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2727", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-66-2727", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-24-1474", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-24-1474", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-22-5478", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-22-5478", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z017", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-17-Z017", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AA-3955", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AA-3955", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AA-3956", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-AA-3956", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-G2-A3IB", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-G2-A3IB", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "GBM", 
+     "sample": "TCGA-12-1597", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-12-1597", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-73-4676", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-73-4676", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-73-4677", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-73-4677", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-73-4670", 
+     "gene": "CHD6"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-73-4670", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-73-4670", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-GC-A3I6", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-GC-A3I6", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-AN-A0FD", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-AN-A0FD", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-50-5068", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-50-5068", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7429", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-7429", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-A8-A09W", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-A8-A09W", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-75-5146", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "LUAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-75-5146", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CN-4727", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-CN-4727", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7424", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-7424", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-FD-A3NA", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-FD-A3NA", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-DQ-5624", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-DQ-5624", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z043", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-17-Z043", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z042", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-17-Z042", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-55-5899", 
+     "gene": "CHD6"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-55-5899", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-55-5899", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-75-6206", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-75-6206", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "LAML", 
+     "sample": "TCGA-AB-3001", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-AB-3001", 
+   "cancer": "LAML"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-FI-A2D2", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "UCEC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-FI-A2D2", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-BG-A0MO", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-BG-A0MO", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2777", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-66-2777", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2770", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-66-2770", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-18-3421", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-18-3421", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AF-3913", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AF-3913", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-BT-A20X", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-BT-A20X", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AA-3869", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AA-3869", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-14-1456", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-14-1456", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-24-2262", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "OV", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-24-2262", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-A8-A079", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "BRCA", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-A8-A079", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-A7-A0CD", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-A7-A0CD", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-60-2709", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-60-2709", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-33-6737", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-33-6737", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-BL-A13I", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-BL-A13I", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-05-4384", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-05-4384", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-33-4586", 
+     "gene": "BPTF"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-33-4586", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-33-4586", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-CZ-5456", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CZ-5456", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-BP-4992", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-BP-4992", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-33-4582", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-33-4582", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B2-5641", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-B2-5641", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-73-4666", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-73-4666", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-A1-A0SO", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-A1-A0SO", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CN-6023", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-CN-6023", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-5434", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-CV-5434", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AG-3883", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AG-3883", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-C8-A1HN", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "BRCA", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-C8-A1HN", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-34-2596", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-34-2596", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7252", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-CV-7252", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-C8-A132", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-C8-A132", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-DK-A3IT", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-DK-A3IT", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-DK-A3IS", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-DK-A3IS", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-DK-A3IQ", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-DK-A3IQ", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-DQ-7588", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-DQ-7588", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-DQ-7589", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-DQ-7589", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B2-4099", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-B2-4099", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-80-5611", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-80-5611", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-E2-A109", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-E2-A109", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-60-2715", 
+     "gene": "RBM45"
+    }
+   ], 
+   "name": "TCGA-60-2715", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AA-3819", 
+     "gene": "BPTF"
+    }, 
+    {
+     "sample": "TCGA-AA-3819", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AA-3819", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-D1-A0ZQ", 
+     "gene": "PTMA"
+    }
+   ], 
+   "name": "TCGA-D1-A0ZQ", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-18-3411", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-18-3411", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-60-2711", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-60-2711", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-60-2710", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-60-2710", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B0-4837", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-B0-4837", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B0-4815", 
+     "gene": "KEAP1"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B0-4815", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-B0-4815", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-BG-A0M4", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-BG-A0M4", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-A8-A06X", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-A8-A06X", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-56-5897", 
+     "cna": "amp", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-56-5897", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-C4-A0F6", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-C4-A0F6", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2778", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-66-2778", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-35-5375", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-35-5375", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CR-5248", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-CR-5248", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-61-1995", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-61-1995", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-24-1553", 
+     "gene": "CHD6"
+    }, 
+    {
+     "sample": "TCGA-24-1553", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "OV", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-24-1553", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-AK-3428", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-AK-3428", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2783", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-66-2783", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2786", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-66-2786", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CN-6995", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-CN-6995", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-GV-A3JW", 
+     "gene": "BPTF"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-GV-A3JW", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-GV-A3JW", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-FD-A3N6", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-FD-A3N6", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-A7-A0CJ", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-A7-A0CJ", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-B5-A0K8", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-B5-A0K8", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-51-4081", 
+     "gene": "NFE2L2"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-51-4081", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-51-4081", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-51-4080", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-51-4080", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7242", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-CV-7242", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AG-A015", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-AG-A015", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-BT-A20N", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-BT-A20N", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-BP-5183", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-BP-5183", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-18-4721", 
+     "cna": "amp", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-18-4721", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-EW-A1PD", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-EW-A1PD", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "OV", 
+     "sample": "TCGA-13-0923", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-13-0923", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-4514", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-49-4514", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-05-4418", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-05-4418", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-18-3407", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-18-3407", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-BH-A1EY", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-BH-A1EY", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonstop_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-2665", 
+     "gene": "PTMA"
+    }
+   ], 
+   "name": "TCGA-44-2665", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-24-1105", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-24-1105", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-05-4395", 
+     "gene": "BPTF"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-05-4395", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-05-4395", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CR-7383", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CR-7383", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CN-5359", 
+     "gene": "KEAP1"
+    }, 
+    {
+     "sample": "TCGA-CN-5359", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "HNSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-CN-5359", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AA-3846", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AA-3846", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-A8-A082", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-A8-A082", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-43-6647", 
+     "gene": "RBM45"
+    }
+   ], 
+   "name": "TCGA-43-6647", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "OV", 
+     "sample": "TCGA-09-2044", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-09-2044", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-CJ-4903", 
+     "gene": "RBM45"
+    }
+   ], 
+   "name": "TCGA-CJ-4903", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-E9-A1N9", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "BRCA", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-E9-A1N9", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-35-3615", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-35-3615", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-BH-A0DK", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-BH-A0DK", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-DI-A0WH", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-DI-A0WH", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AA-3848", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-AA-3848", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-BP-4781", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-BP-4781", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-66-2791", 
+     "gene": "BPTF"
+    }, 
+    {
+     "sample": "TCGA-66-2791", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-66-2791", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-BT-A2LA", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-BT-A2LA", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-CR-7380", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "HNSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-CR-7380", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B2-4098", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-B2-4098", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-7248", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-CV-7248", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-AR-A24O", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-AR-A24O", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-34-5240", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-34-5240", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-39-5021", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-39-5021", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-39-5022", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-39-5022", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AP-A1DQ", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "UCEC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AP-A1DQ", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-C4-A0EZ", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-C4-A0EZ", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AA-3982", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AA-3982", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AG-3898", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AG-3898", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-A2-A0SY", 
+     "gene": "SLK"
+    }
+   ], 
+   "name": "TCGA-A2-A0SY", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LAML", 
+     "sample": "TCGA-AB-2968", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-AB-2968", 
+   "cancer": "LAML"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-A7-A26E", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-A7-A26E", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-34-5928", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-34-5928", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-44-2655", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-44-2655", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "COADREAD", 
+     "sample": "TCGA-AG-A032", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-AG-A032", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-22-4599", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-22-4599", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-4507", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-49-4507", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-49-4506", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-49-4506", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-6940", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-6940", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z018", 
+     "gene": "CHD6"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z018", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-17-Z018", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "In_Frame_Del", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-D8-A27K", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-D8-A27K", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-22-1012", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-22-1012", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z014", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-17-Z014", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-A8-A08J", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "BRCA", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-A8-A08J", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AG-4015", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AG-4015", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-BT-A20U", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-BT-A20U", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "GBM", 
+     "sample": "TCGA-06-0241", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-06-0241", 
+   "cancer": "GBM"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUAD", 
+     "sample": "TCGA-17-Z011", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-17-Z011", 
+   "cancer": "LUAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Splice_Site", 
+     "inactivating": true, 
+     "cancer": "OV", 
+     "sample": "TCGA-13-0890", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-13-0890", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-BA-6868", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-BA-6868", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-E5-A2PC", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-E5-A2PC", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-CV-6933", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "HNSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-CV-6933", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-B0-4714", 
+     "gene": "WAC"
+    }
+   ], 
+   "name": "TCGA-B0-4714", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-GC-A3RB", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-GC-A3RB", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-B5-A11I", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-B5-A11I", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-43-3394", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-43-3394", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CV-6935", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CV-6935", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CN-6010", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-CN-6010", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "KIRC", 
+     "sample": "TCGA-BP-4768", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-BP-4768", 
+   "cancer": "KIRC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Frame_Shift_Del", 
+     "inactivating": true, 
+     "cancer": "OV", 
+     "sample": "TCGA-13-0792", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-13-0792", 
+   "cancer": "OV"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-46-6025", 
+     "gene": "CHD6"
+    }, 
+    {
+     "sample": "TCGA-46-6025", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Nonsense_Mutation", 
+     "inactivating": true, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-46-6025", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-46-6025", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-EW-A1P8", 
+     "gene": "CHD6"
+    }
+   ], 
+   "name": "TCGA-EW-A1P8", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "HNSC", 
+     "sample": "TCGA-CN-6019", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-CN-6019", 
+   "cancer": "HNSC"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-39-5036", 
+     "gene": "NFE2L2", 
+     "cna": "amp", 
+     "cancer": "LUSC", 
+     "inactivating": false
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-39-5036", 
+     "gene": "CHD6"
+    }, 
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "LUSC", 
+     "sample": "TCGA-39-5036", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-39-5036", 
+   "cancer": "LUSC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BLCA", 
+     "sample": "TCGA-G2-A3IE", 
+     "gene": "KEAP1"
+    }
+   ], 
+   "name": "TCGA-G2-A3IE", 
+   "cancer": "BLCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AG-A02G", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AG-A02G", 
+   "cancer": "COADREAD"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "UCEC", 
+     "sample": "TCGA-AX-A05S", 
+     "gene": "BPTF"
+    }
+   ], 
+   "name": "TCGA-AX-A05S", 
+   "cancer": "UCEC"
+  }, 
+  {
+   "genes": [
+    {
+     "snv": "snv", 
+     "all": "Missense_Mutation", 
+     "inactivating": false, 
+     "cancer": "BRCA", 
+     "sample": "TCGA-D8-A1X6", 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "name": "TCGA-D8-A1X6", 
+   "cancer": "BRCA"
+  }, 
+  {
+   "genes": [
+    {
+     "sample": "TCGA-AG-3896", 
+     "gene": "CHD6", 
+     "cna": "amp", 
+     "cancer": "COADREAD", 
+     "inactivating": false
+    }
+   ], 
+   "name": "TCGA-AG-3896", 
+   "cancer": "COADREAD"
+  }
+ ], 
+ "nodes": [
+  {
+   "category": 3104, 
+   "heat": 0.02254428341384863, 
+   "gene": "KEAP1"
+  }, 
+  {
+   "category": 3104, 
+   "heat": 0.031561996779388084, 
+   "gene": "NFE2L2"
+  }, 
+  {
+   "category": 3104, 
+   "heat": 0.015458937198067632, 
+   "gene": "BPTF"
+  }, 
+  {
+   "category": 3104, 
+   "heat": 0.02705314009661836, 
+   "gene": "CHD6"
+  }, 
+  {
+   "category": 3104, 
+   "heat": 0, 
+   "gene": "PTMA"
+  }, 
+  {
+   "category": 3104, 
+   "heat": 0, 
+   "gene": "RBM45"
+  }, 
+  {
+   "category": 3104, 
+   "heat": 0.005475040257648953, 
+   "gene": "SLK"
+  }, 
+  {
+   "category": 3104, 
+   "heat": 0.006119162640901771, 
+   "gene": "WAC"
+  }
+ ], 
+ "annotations": [
+  {
+   "transcripts": [
+    {
+     "name": "ENST00000171111", 
+     "sequence": "MQPDPRPSGAGACCRFLPLQSQCPEGAGDAVMYASTECKAEVTPSQHGNRTFSYTLEDHTKQAFGIMNELRLSQQLCDVTLQVKYQDAPAAQFMAHKVVLASSSPVFKAMFTNGLREQGMEVVSIEGIHPKVMERLIEFAYTASISMGEKCVLHVMNGAVMYQIDSVVRACSDFLVQQLDPSNAIGIANFAEQIGCVELHQRAREYIYMHFGEVAKQEEFFNLSHCQLVTLISRDDLNVRCESEVFHACINWVKYDCEQRRFYVQALLRAVRCHSLTPNFLQMQLQKCEILQSDSRCKDYLVKIFEELTLHKPTQVMPCRAPKVGRLIYTAGGYFRQSLSYLEAYNPSDGTWLRLADLQVPRSGLAGCVVGGLLYAVGGRNNSPDGNTDSSALDCYNPMTNQWSPCAPMSVPRNRIGVGVIDGHIYAVGGSHGCIHHNSVERYEPERDEWHLVAPMLTRRIGVGVAVLNRLLYAVGGFDGTNRLNSAECYYPERNEWRMITAMNTIRSGAGVCVLHNCIYAAGGYDGQDQLNSVERYDVETETWTFVAPMKHRRSALGITVHQGRIYVLGGYDGHTFLDSVECYDPDTDTWSEVTRMTSGRSGVGVAVTMEPCRKQIDQQNCTC", 
+     "mutations": [
+      {
+       "sample": "TCGA-DK-A1A3", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 25
+      }, 
+      {
+       "sample": "TCGA-DK-A1A3", 
+       "mutation": "Frame_Shift_Ins", 
+       "cancer": "BLCA", 
+       "locus": 537
+      }, 
+      {
+       "sample": "TCGA-G2-A2EJ", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 218
+      }, 
+      {
+       "sample": "TCGA-G2-A3IE", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 244
+      }, 
+      {
+       "sample": "TCGA-A8-A09W", 
+       "mutation": "Frame_Shift_Ins", 
+       "cancer": "BRCA", 
+       "locus": 452
+      }, 
+      {
+       "sample": "TCGA-A8-A09W", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "BRCA", 
+       "locus": 452
+      }, 
+      {
+       "sample": "TCGA-EW-A1J5", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 449
+      }, 
+      {
+       "sample": "TCGA-35-3615", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 449
+      }, 
+      {
+       "sample": "TCGA-AA-3715", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 125
+      }, 
+      {
+       "sample": "TCGA-AA-A00E", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 536
+      }, 
+      {
+       "sample": "TCGA-BA-7269", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 598
+      }, 
+      {
+       "sample": "TCGA-BB-7870", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 23
+      }, 
+      {
+       "sample": "TCGA-CN-4723", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 29
+      }, 
+      {
+       "sample": "TCGA-CN-4727", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 45
+      }, 
+      {
+       "sample": "TCGA-CN-5359", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 272
+      }, 
+      {
+       "sample": "TCGA-CN-6010", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 178
+      }, 
+      {
+       "sample": "TCGA-CR-6492", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 607
+      }, 
+      {
+       "sample": "TCGA-CV-5434", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 470
+      }, 
+      {
+       "sample": "TCGA-DQ-7588", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 470
+      }, 
+      {
+       "sample": "TCGA-49-4507", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 470
+      }, 
+      {
+       "sample": "TCGA-60-2710", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 470
+      }, 
+      {
+       "sample": "TCGA-66-2773", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 470
+      }, 
+      {
+       "sample": "TCGA-CV-5978", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 145
+      }, 
+      {
+       "sample": "TCGA-17-Z030", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 145
+      }, 
+      {
+       "sample": "TCGA-CV-7238", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 169
+      }, 
+      {
+       "sample": "TCGA-BS-A0TA", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 169
+      }, 
+      {
+       "sample": "TCGA-CV-7248", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 319
+      }, 
+      {
+       "sample": "TCGA-DQ-7589", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 369
+      }, 
+      {
+       "sample": "TCGA-66-2756", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 369
+      }, 
+      {
+       "sample": "TCGA-B0-4815", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 544
+      }, 
+      {
+       "sample": "TCGA-66-2754", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 544
+      }, 
+      {
+       "sample": "TCGA-BP-5183", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 409
+      }, 
+      {
+       "sample": "TCGA-05-4384", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 524
+      }, 
+      {
+       "sample": "TCGA-05-4389", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 246
+      }, 
+      {
+       "sample": "TCGA-05-4395", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 479
+      }, 
+      {
+       "sample": "TCGA-05-4418", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 460
+      }, 
+      {
+       "sample": "TCGA-17-Z001", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 415
+      }, 
+      {
+       "sample": "TCGA-73-4676", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 415
+      }, 
+      {
+       "sample": "TCGA-17-Z008", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 328
+      }, 
+      {
+       "sample": "TCGA-17-Z011", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 144
+      }, 
+      {
+       "sample": "TCGA-44-2655", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 144
+      }, 
+      {
+       "sample": "TCGA-17-Z018", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 156
+      }, 
+      {
+       "sample": "TCGA-17-Z026", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 163
+      }, 
+      {
+       "sample": "TCGA-17-Z043", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 260
+      }, 
+      {
+       "sample": "TCGA-18-5595", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 260
+      }, 
+      {
+       "sample": "TCGA-35-3621", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 332
+      }, 
+      {
+       "sample": "TCGA-35-5375", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "LUAD", 
+       "locus": 593
+      }, 
+      {
+       "sample": "TCGA-38-4631", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 139
+      }, 
+      {
+       "sample": "TCGA-44-6776", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 155
+      }, 
+      {
+       "sample": "TCGA-18-3407", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 155
+      }, 
+      {
+       "sample": "TCGA-22-4599", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 155
+      }, 
+      {
+       "sample": "TCGA-44-6778", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 110
+      }, 
+      {
+       "sample": "TCGA-44-6779", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 142
+      }, 
+      {
+       "sample": "TCGA-49-4486", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 333
+      }, 
+      {
+       "sample": "TCGA-49-4488", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 284
+      }, 
+      {
+       "sample": "TCGA-49-4506", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 503
+      }, 
+      {
+       "sample": "TCGA-49-6742", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 268
+      }, 
+      {
+       "sample": "TCGA-50-5051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 417
+      }, 
+      {
+       "sample": "TCGA-67-3771", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 417
+      }, 
+      {
+       "sample": "TCGA-50-5068", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 423
+      }, 
+      {
+       "sample": "TCGA-39-5036", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 423
+      }, 
+      {
+       "sample": "TCGA-50-5936", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 46
+      }, 
+      {
+       "sample": "TCGA-50-5939", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 261
+      }, 
+      {
+       "sample": "TCGA-55-5899", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 509
+      }, 
+      {
+       "sample": "TCGA-64-5781", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 99
+      }, 
+      {
+       "sample": "TCGA-67-3774", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 483
+      }, 
+      {
+       "sample": "TCGA-73-4666", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 603
+      }, 
+      {
+       "sample": "TCGA-73-4670", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 123
+      }, 
+      {
+       "sample": "TCGA-73-4677", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 287
+      }, 
+      {
+       "sample": "TCGA-75-6206", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 214
+      }, 
+      {
+       "sample": "TCGA-75-6211", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 204
+      }, 
+      {
+       "sample": "TCGA-18-3409", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 318
+      }, 
+      {
+       "sample": "TCGA-18-5595", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 493
+      }, 
+      {
+       "sample": "TCGA-21-1077", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 422
+      }, 
+      {
+       "sample": "TCGA-AP-A0LM", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 422
+      }, 
+      {
+       "sample": "TCGA-33-4532", 
+       "mutation": "Frame_Shift_Ins", 
+       "cancer": "LUSC", 
+       "locus": 469
+      }, 
+      {
+       "sample": "TCGA-33-4538", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 310
+      }, 
+      {
+       "sample": "TCGA-37-4133", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 243
+      }, 
+      {
+       "sample": "TCGA-37-5819", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 480
+      }, 
+      {
+       "sample": "TCGA-60-2722", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 480
+      }, 
+      {
+       "sample": "TCGA-39-5031", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 15
+      }, 
+      {
+       "sample": "TCGA-43-2578", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 167
+      }, 
+      {
+       "sample": "TCGA-43-6143", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 506
+      }, 
+      {
+       "sample": "TCGA-46-6025", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 75
+      }, 
+      {
+       "sample": "TCGA-51-4081", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 418
+      }, 
+      {
+       "sample": "TCGA-60-2723", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 231
+      }, 
+      {
+       "sample": "TCGA-66-2773", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 320
+      }, 
+      {
+       "sample": "TCGA-66-2777", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 224
+      }, 
+      {
+       "sample": "TCGA-24-1474", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "OV", 
+       "locus": 189
+      }, 
+      {
+       "sample": "TCGA-AX-A063", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 185
+      }, 
+      {
+       "sample": "TCGA-B5-A0JY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 488
+      }, 
+      {
+       "sample": "TCGA-BS-A0TE", 
+       "mutation": "Frame_Shift_Ins", 
+       "cancer": "UCEC", 
+       "locus": 518
+      }, 
+      {
+       "sample": "TCGA-D1-A103", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 326
+      }, 
+      {
+       "sample": "TCGA-D1-A103", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 95
+      }, 
+      {
+       "sample": "TCGA-D1-A103", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 50
+      }
+     ], 
+     "length": 624, 
+     "domains": [
+      {
+       "start": 67, 
+       "end": 176, 
+       "name": "BTB"
+      }, 
+      {
+       "start": 184, 
+       "end": 282, 
+       "name": "BACK"
+      }
+     ], 
+     "gene": "KEAP1"
+    }
+   ], 
+   "gene": "KEAP1"
+  }, 
+  {
+   "transcripts": [
+    {
+     "name": "ENST00000397062", 
+     "sequence": "MMDLELPPPGLPSQQDMDLIDILWRQDIDLGVSREVFDFSQRRKEYELEKQKKLEKERQEQLQKEQEKAFFAQLQLDEETGEFLPIQPAQHIQSETSGSANYSQVAHIPKSDALYFDDCMQLLAQTFPFVDDNEVSSATFQSLVPDIPGHIESPVFIATNQAQSPETSVAQVAPVDLDGMQQDIEQVWEELLSIPELQCLNIENDKLVETTMVPSPEAKLTEVDNYHFYSSIPSMEKEVGNCSPHFLNAFEDSFSSILSTEDPNQLTVNSLNSDATVNTDFGDEFYSAFIAEPSISNSMPSPATLSHSLSELLNGPIDVSDLSLCKAFNQNHPESTAEFNDSDSGISLNTSPSVASPEHSVESSSYGDTLLGLSDSEVEELDSAPGSVKQNGPKTPVHSSGDMVQPLSPSQGQSTHVHDAQCENTPEKELPVSPGHRKTPFTKDKHSSRLEAHLTRDELRAKALHIPFPVEKIINLPVVDFNEMMSKEQFNEAQLALIRDIRRRGKNKVAAQNCRKRKLENIVELEQDLDHLKDEKEKLLKEKGENDKSLHLLKKQLSTLYLEVFSMLRDEDGKPYSPSEYSLQQTRDGNVFLVPKSKKPDVKKN", 
+     "mutations": [
+      {
+       "sample": "TCGA-C4-A0F6", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 533
+      }, 
+      {
+       "sample": "TCGA-DK-A3IT", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 161
+      }, 
+      {
+       "sample": "TCGA-AA-A00N", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 538
+      }, 
+      {
+       "sample": "TCGA-AG-A002", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 511
+      }, 
+      {
+       "sample": "TCGA-AG-A002", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 380
+      }, 
+      {
+       "sample": "TCGA-BA-7269", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 262
+      }, 
+      {
+       "sample": "TCGA-CV-6942", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 570
+      }, 
+      {
+       "sample": "TCGA-BP-4768", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 427
+      }, 
+      {
+       "sample": "TCGA-17-Z015", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 412
+      }, 
+      {
+       "sample": "TCGA-A5-A0GH", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 160
+      }, 
+      {
+       "sample": "TCGA-B5-A11Y", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 449
+      }, 
+      {
+       "sample": "TCGA-D1-A17Q", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 499
+      }
+     ], 
+     "length": 605, 
+     "domains": [], 
+     "gene": "NFE2L2"
+    }
+   ], 
+   "gene": "NFE2L2"
+  }, 
+  {
+   "transcripts": [], 
+   "gene": "BPTF"
+  }, 
+  {
+   "transcripts": [
+    {
+     "name": "ENST00000373233", 
+     "sequence": "MKMKIQKKEKQLSNLKVLNHSPMSDASVNFDYKSPSPFDCSTDQEEKIEDVASHCLPQKDLYTAEEEAATLFPRKMTSHNGMEDSGGGGTGVKKKRKKKEPGDQEGAAKGSKDREPKPKRKREPKEPKEPRKAKEPKKAKEHKEPKQKDGAKKARKPREASGTKEAKEKRSCTDSAARTKSRKASKEQGPTPVEKKKKGKRKSETTVESLELDQGLTNPSLRSPEESTESTDSQKRRSGRQVKRRKYNEDLDFKVVDDDGETIAVLGAGRTSALSASTLAWQAEEPPEDDANIIEKILASKTVQEVHPGEPPFDLELFYVKYRNFSYLHCKWATMEELEKDPRIAQKIKRFRNKQAQMKHIFTEPDEDLFNPDYVEVDRILEVAHTKDAETGEEVTHYLVKWCSLPYEESTWELEEDVDPAKVKEFESLQVLPEIKHVERPASDSWQKLEKSREYKNSNQLREYQLEGMNWLLFNWYNRKNCILADEMGLGKTIQSITFLSEIFLRGIHGPFLIIAPLSTITNWEREFRTWTEMNAIVYHGSQISRQMIQQYEMVYRDAQGNPLSGVFKFHVVITTFEMILADCPELKKIHWSCVIIDEAHRLKNRNCKLLEGLKLMALEHKVLLTGTPLQNSVEELFSLLNFLEPSQFPSETAFLEEFGDLKTEEQVKKLQSILKPMMLRRLKDDVEKNLAPKQETIIEVELTNIQKKYYRAILEKNFSFLTKGANQHNMPNLINTMMELRKCCNHPYLINGAEEKILEDFRKTHSPDAPDFQLQAMIQAAGKLVLIDKLLPKLIAGGHKVLIFSQMVRCLDILEDYLIQRRYTYERIDGRVRGNLRQAAIDRFCKPDSDRFVFLLCTRAGGLGINLTAADTCIIFDSDWNPQNDLQAQARCHRIGQSKAVKVYRLITRNSYEREMFDKASLKLGLDKAVLQDINRKGGTNGVQQLSKMEVEDLLRKGAYGALMDEEDEGSKFCEEDIDQILQRRTHTITIQSEGKGSTFAKASFVASGNRTDISLDDPNFWQKWAKIAELDTEAKNEKESLVIDRPRVRKQTKHYNSFEEDELMEFSELDSDSDERPTRSRRLNDKARRYLRAECFRVEKNLLIFGWGRWKDILTHGRFKWHLNEKDMEMICRALLVYCVKHYKGDEKIKSFIWELITPTKDGQAQTLQNHSGLSAPVPRGRKGKKTKNQLLIPELKDADWLATCNPEVVLHDDGYKKHLKQHCNKVLLRVRMLYYLKAEILGEAAEKAFEGSPARELDVPLPDIDYMEIPVDWWDAEADKSLLIGVFKHGYERYNAMRADPALCFLEKVGMPDEKSLSAEQGVTDGTSDIPERGNTDKEDNAEDKVDGLQKQTESSSDGGDGVFSEKKDDSRAAQDGSDPDKSPWPVSSALTARLRRLVTVYQRCNRKELCRPEILGPGNQGYWVQEEMFRRTSEMDLINKEAQKRWTRREQADFYRTVSSFGVVYDQEKKTFDWTQFRIISRLDKKSDESLEQYFYSFVAMCRNVCRLPTWKDGGPPDTTIYVEPITEERAARTLYRIELLRKVREQVLKCPQLHERLQLCRPSLYLPVWWECGKHDRDLLIGTAKHGLNRTDCYIMNDPQLSFLDAYRNYAQHKRSGTQAPGNLCCLYQTNSKLYESLTYSQMSRTSESLENEPENLVRVESRDDHLSLPDVTCENFISKVQDVISINHDESLLPESLESMMYGKKVLSQEPSSFQESPSTNTESRKDVITISISKDGNCQSGGPEAEIASGPTFMGSLEAGGVAQANIKNGKHLLMSISKEGELCCSEAGQRPENIGQLEAKCLASPSLNPGNESGFVDMCSLSVCDSKRNLSSDQQLIDLLENKSLESKLILSQNHSDEEEEEEENEEENLAMAVGMGERPEVLHLTEPTTNISREKNQGFQDETKKGSLEVANQTPGLQRAFPAPAACQCHCKHMERWMHGLENDEFEIEKPKAYIPDLFKSKTNTIAMEGEPTAIPSQPFKVKHELLKEPWKESAEGQNVFPTYPLEGSELKSEDMDFENKDDYDRDGNCHSQDYPGKYSEEESKSSTSGITGDIGDELQEARAPTIAQLLQEKTLYSFSEWPKDRVIINRLDNICHVVLKGKWPSSQQYEPSGTLPTPVLTSSAGSRTSLSEPEAAEHSFSNGAALAAQIHKESFLAPVFTKDEQKHRRPYEFEVERDAKARGLEQFSATHGHTPIILNGWHGESAMDLSCSSEGSPGATSPFPVSASTPKIGAISSLQGALGMDLSGILQAGLIHPVTGQIVNGSLRRDDAATRRRRGRRKHVEGGMDLIFLKEQTLQAGILEVHEDPGQATLSTTHPEGPGPATSAPEPATAASSQAEKSIPSKSLLDWLRQQADYSLEVPGFGANFSDKPKQRRPRCKEPGKLDVSSLSGEERVPAIPKEPGLRGFLPENKFNHTLAEPILRDTGPRRRGRRPRSELLKAPSIVADSPSGMGPLFMNGLIAGMDLVGLQNMRNMPGIPLTGLVGFPAGFATMPTGEEVKSTLSMLPMMLPGMAAVPQMFGVGGLLSPPMATTCTSTAPASLSSTTKSGTAVTEKTAEDKPSSHDVKTDTLAEDKPGPGPFSDQSEPAITTSSPVAFNPFLIPGVSPGLIYPSMFLSPGMGMALPAMQQARHSEIVGLESQKRKKKKTKGDNPNSHPEPAPSCEREPSGDENCAEPSAPLPAEREHGAQAGEGALKDSNNDTN", 
+     "mutations": [
+      {
+       "sample": "TCGA-BT-A20X", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 2337
+      }, 
+      {
+       "sample": "TCGA-BT-A2LA", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 1918
+      }, 
+      {
+       "sample": "TCGA-BT-A3PK", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 2620
+      }, 
+      {
+       "sample": "TCGA-BT-A3PK", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 510
+      }, 
+      {
+       "sample": "TCGA-DK-A1A3", 
+       "mutation": "Splice_Site", 
+       "cancer": "BLCA", 
+       "locus": 1336
+      }, 
+      {
+       "sample": "TCGA-AR-A24O", 
+       "mutation": "Splice_Site", 
+       "cancer": "BRCA", 
+       "locus": 1336
+      }, 
+      {
+       "sample": "TCGA-DK-A1AG", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 1998
+      }, 
+      {
+       "sample": "TCGA-AX-A05Z", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1998
+      }, 
+      {
+       "sample": "TCGA-GC-A3I6", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 1647
+      }, 
+      {
+       "sample": "TCGA-GV-A3JW", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 1910
+      }, 
+      {
+       "sample": "TCGA-GV-A3JZ", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 305
+      }, 
+      {
+       "sample": "TCGA-A1-A0SO", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 2671
+      }, 
+      {
+       "sample": "TCGA-A7-A0CD", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 1604
+      }, 
+      {
+       "sample": "TCGA-A7-A0CJ", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 134
+      }, 
+      {
+       "sample": "TCGA-BH-A0BR", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 4
+      }, 
+      {
+       "sample": "TCGA-BH-A0H7", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 350
+      }, 
+      {
+       "sample": "TCGA-AX-A05Z", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 350
+      }, 
+      {
+       "sample": "TCGA-BH-A1EY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 230
+      }, 
+      {
+       "sample": "TCGA-D8-A1JP", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 1237
+      }, 
+      {
+       "sample": "TCGA-E2-A109", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "BRCA", 
+       "locus": 298
+      }, 
+      {
+       "sample": "TCGA-E2-A10C", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 2137
+      }, 
+      {
+       "sample": "TCGA-CR-5248", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 2137
+      }, 
+      {
+       "sample": "TCGA-66-2786", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 2137
+      }, 
+      {
+       "sample": "TCGA-EW-A1P8", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 1924
+      }, 
+      {
+       "sample": "TCGA-GI-A2C8", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 487
+      }, 
+      {
+       "sample": "TCGA-AA-3672", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 572
+      }, 
+      {
+       "sample": "TCGA-AA-3672", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 319
+      }, 
+      {
+       "sample": "TCGA-AA-3696", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 661
+      }, 
+      {
+       "sample": "TCGA-AA-3710", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 2120
+      }, 
+      {
+       "sample": "TCGA-AA-3710", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 1301
+      }, 
+      {
+       "sample": "TCGA-AA-3715", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 236
+      }, 
+      {
+       "sample": "TCGA-AA-3811", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 1751
+      }, 
+      {
+       "sample": "TCGA-AA-3811", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 222
+      }, 
+      {
+       "sample": "TCGA-AA-3833", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 216
+      }, 
+      {
+       "sample": "TCGA-AA-3845", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 66
+      }, 
+      {
+       "sample": "TCGA-AA-3864", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 345
+      }, 
+      {
+       "sample": "TCGA-AA-3956", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 1765
+      }, 
+      {
+       "sample": "TCGA-AA-3966", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 763
+      }, 
+      {
+       "sample": "TCGA-AA-A010", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 1823
+      }, 
+      {
+       "sample": "TCGA-AA-A01Q", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 1976
+      }, 
+      {
+       "sample": "TCGA-AG-A002", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 417
+      }, 
+      {
+       "sample": "TCGA-49-4486", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 417
+      }, 
+      {
+       "sample": "TCGA-AG-A015", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 1434
+      }, 
+      {
+       "sample": "TCGA-AG-A01W", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 798
+      }, 
+      {
+       "sample": "TCGA-06-0241", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "GBM", 
+       "locus": 2126
+      }, 
+      {
+       "sample": "TCGA-14-1456", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "GBM", 
+       "locus": 1832
+      }, 
+      {
+       "sample": "TCGA-76-4928", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "GBM", 
+       "locus": 1353
+      }, 
+      {
+       "sample": "TCGA-CN-6023", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 2393
+      }, 
+      {
+       "sample": "TCGA-CN-6995", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 2667
+      }, 
+      {
+       "sample": "TCGA-D1-A103", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 2667
+      }, 
+      {
+       "sample": "TCGA-CV-7242", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 480
+      }, 
+      {
+       "sample": "TCGA-CV-7245", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 886
+      }, 
+      {
+       "sample": "TCGA-CV-7252", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 1863
+      }, 
+      {
+       "sample": "TCGA-AK-3428", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 1074
+      }, 
+      {
+       "sample": "TCGA-B0-4815", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 337
+      }, 
+      {
+       "sample": "TCGA-CJ-4899", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 2494
+      }, 
+      {
+       "sample": "TCGA-D1-A160", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 2494
+      }, 
+      {
+       "sample": "TCGA-05-4396", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1965
+      }, 
+      {
+       "sample": "TCGA-05-4396", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1788
+      }, 
+      {
+       "sample": "TCGA-05-4397", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 2153
+      }, 
+      {
+       "sample": "TCGA-17-Z014", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1613
+      }, 
+      {
+       "sample": "TCGA-17-Z031", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1874
+      }, 
+      {
+       "sample": "TCGA-44-2656", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1092
+      }, 
+      {
+       "sample": "TCGA-44-3918", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1111
+      }, 
+      {
+       "sample": "TCGA-44-4112", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 366
+      }, 
+      {
+       "sample": "TCGA-44-6144", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 2052
+      }, 
+      {
+       "sample": "TCGA-44-6776", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1575
+      }, 
+      {
+       "sample": "TCGA-49-4487", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 88
+      }, 
+      {
+       "sample": "TCGA-50-5933", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 2078
+      }, 
+      {
+       "sample": "TCGA-50-6590", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 636
+      }, 
+      {
+       "sample": "TCGA-55-5899", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1073
+      }, 
+      {
+       "sample": "TCGA-67-3771", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 517
+      }, 
+      {
+       "sample": "TCGA-80-5611", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 327
+      }, 
+      {
+       "sample": "TCGA-91-6836", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1915
+      }, 
+      {
+       "sample": "TCGA-91-6836", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 150
+      }, 
+      {
+       "sample": "TCGA-18-4086", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 1932
+      }, 
+      {
+       "sample": "TCGA-22-4604", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 1344
+      }, 
+      {
+       "sample": "TCGA-39-5031", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 2045
+      }, 
+      {
+       "sample": "TCGA-39-5036", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 1135
+      }, 
+      {
+       "sample": "TCGA-46-6025", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 2287
+      }, 
+      {
+       "sample": "TCGA-66-2787", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 1296
+      }, 
+      {
+       "sample": "TCGA-13-0755", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "OV", 
+       "locus": 1289
+      }, 
+      {
+       "sample": "TCGA-24-1105", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "OV", 
+       "locus": 1570
+      }, 
+      {
+       "sample": "TCGA-24-1553", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "OV", 
+       "locus": 1091
+      }, 
+      {
+       "sample": "TCGA-25-1317", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "OV", 
+       "locus": 949
+      }, 
+      {
+       "sample": "TCGA-61-1995", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "OV", 
+       "locus": 440
+      }, 
+      {
+       "sample": "TCGA-A5-A0GJ", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "UCEC", 
+       "locus": 2447
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 2551
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1742
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1700
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1222
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 891
+      }, 
+      {
+       "sample": "TCGA-AP-A056", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 69
+      }, 
+      {
+       "sample": "TCGA-AP-A059", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 2569
+      }, 
+      {
+       "sample": "TCGA-AP-A059", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1312
+      }, 
+      {
+       "sample": "TCGA-AP-A0LM", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1232
+      }, 
+      {
+       "sample": "TCGA-AP-A0LM", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1125
+      }, 
+      {
+       "sample": "TCGA-AX-A0J0", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1738
+      }, 
+      {
+       "sample": "TCGA-AX-A0J0", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 46
+      }, 
+      {
+       "sample": "TCGA-AX-A0J1", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1541
+      }, 
+      {
+       "sample": "TCGA-AX-A0J1", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 786
+      }, 
+      {
+       "sample": "TCGA-B5-A0JY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1811
+      }, 
+      {
+       "sample": "TCGA-B5-A0JY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1631
+      }, 
+      {
+       "sample": "TCGA-B5-A0JY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1473
+      }, 
+      {
+       "sample": "TCGA-B5-A0JY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 325
+      }, 
+      {
+       "sample": "TCGA-B5-A11I", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1397
+      }, 
+      {
+       "sample": "TCGA-B5-A11Y", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 2505
+      }, 
+      {
+       "sample": "TCGA-BG-A0MO", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1388
+      }, 
+      {
+       "sample": "TCGA-BS-A0UF", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1704
+      }, 
+      {
+       "sample": "TCGA-BS-A0UF", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1690
+      }, 
+      {
+       "sample": "TCGA-BS-A0UF", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 832
+      }, 
+      {
+       "sample": "TCGA-BS-A0UJ", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 2622
+      }, 
+      {
+       "sample": "TCGA-D1-A103", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 2158
+      }, 
+      {
+       "sample": "TCGA-D1-A103", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 324
+      }, 
+      {
+       "sample": "TCGA-D1-A15X", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1587
+      }, 
+      {
+       "sample": "TCGA-D1-A160", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1417
+      }, 
+      {
+       "sample": "TCGA-D1-A16J", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1280
+      }, 
+      {
+       "sample": "TCGA-D1-A17Q", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 791
+      }, 
+      {
+       "sample": "TCGA-DI-A0WH", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 2504
+      }
+     ], 
+     "length": 2715, 
+     "domains": [
+      {
+       "start": 464, 
+       "end": 751, 
+       "name": "SNF2_N"
+      }
+     ], 
+     "gene": "CHD6"
+    }
+   ], 
+   "gene": "CHD6"
+  }, 
+  {
+   "transcripts": [], 
+   "gene": "PTMA"
+  }, 
+  {
+   "transcripts": [
+    {
+     "name": "ENST00000286070", 
+     "sequence": "MDEAGSSASGGGFRPGVDSLDEPPNSRIFLVISKYTPESVLRERFSPFGDIQDIWVVRDKHTKESKGIAFVKFARSSQACRAMEEMHGQCLGPNDTKPIKVFIAQSRSSGSHRDVEDEELTRIFVMIPKSYTEEDLREKFKVYGDIEYCSIIKNKVTGESKGLGYVRYLKPSQAAQAIENCDRSFRAILAEPKNKASESSEQDYYSNMRQEALGHEPRVNMFPFEQQSEFSSFDKNDSRGQEAISKRLSVVSRVPFTEEQLFSIFDIVPGLEYCEVQRDPYSNYGHGVVQYFNVASAIYAKYKLHGFQYPPGNRIGVSFIDDGSNATDLLRKMATQMVAAQLASMVWNNPSQQQFMQFGGSSGSQLPQIQTDVVLPSCKKKAPAETPVKERLFIVFNPHPLPLDVLEDIFCRFGNLIEVYLVSGKNVGYAKYADRISANDAIATLHGKILNGVRLKVMLADSPREESNKRQRTY", 
+     "mutations": [
+      {
+       "sample": "TCGA-BT-A2LB", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 83
+      }, 
+      {
+       "sample": "TCGA-D8-A1JP", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 368
+      }, 
+      {
+       "sample": "TCGA-AA-3710", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "COADREAD", 
+       "locus": 382
+      }, 
+      {
+       "sample": "TCGA-AA-3864", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "COADREAD", 
+       "locus": 382
+      }, 
+      {
+       "sample": "TCGA-49-6745", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "LUAD", 
+       "locus": 382
+      }, 
+      {
+       "sample": "TCGA-AA-3715", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 433
+      }, 
+      {
+       "sample": "TCGA-AA-A010", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 255
+      }, 
+      {
+       "sample": "TCGA-AG-A002", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 295
+      }, 
+      {
+       "sample": "TCGA-AG-A02N", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 41
+      }, 
+      {
+       "sample": "TCGA-CW-5580", 
+       "mutation": "Frame_Shift_Ins", 
+       "cancer": "KIRC", 
+       "locus": 12
+      }, 
+      {
+       "sample": "TCGA-05-4398", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 117
+      }, 
+      {
+       "sample": "TCGA-49-6742", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 126
+      }, 
+      {
+       "sample": "TCGA-64-1676", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 81
+      }, 
+      {
+       "sample": "TCGA-18-3416", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 387
+      }, 
+      {
+       "sample": "TCGA-37-5819", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 1
+      }, 
+      {
+       "sample": "TCGA-56-5898", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 337
+      }, 
+      {
+       "sample": "TCGA-AP-A059", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 390
+      }, 
+      {
+       "sample": "TCGA-AP-A0LM", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 448
+      }, 
+      {
+       "sample": "TCGA-B5-A0JY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 66
+      }, 
+      {
+       "sample": "TCGA-D1-A17B", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 101
+      }
+     ], 
+     "length": 474, 
+     "domains": [], 
+     "gene": "RBM45"
+    }
+   ], 
+   "gene": "RBM45"
+  }, 
+  {
+   "transcripts": [
+    {
+     "name": "ENST00000369755", 
+     "sequence": "MSFFNFRKIFKLGSEKKKKQYEHVKRDLNPEDFWEIIGELGDGAFGKVYKAQNKETSVLAAAKVIDTKSEEELEDYMVEIDILASCDHPNIVKLLDAFYYENNLWILIEFCAGGAVDAVMLELERPLTESQIQVVCKQTLDALNYLHDNKIIHRDLKAGNILFTLDGDIKLADFGVSAKNTRTIQRRDSFIGTPYWMAPEVVMCETSKDRPYDYKADVWSLGITLIEMAEIEPPHHELNPMRVLLKIAKSEPPTLAQPSRWSSNFKDFLKKCLEKNVDARWTTSQLLQHPFVTVDSNKPIRELIAEAKAEVTEEVEDGKEEDEEEETENSLPIPASKRASSDLSIASSEEDKLSQNACILESVSEKTERSNSEDKLNSKILNEKPTTDEPEKAVEDINEHITDAQLEAMTELHDRTAVIKENEREKRPKLENLPDTEDQETVDINSVSEGKENNIMITLETNIEHNLKSEEEKDQEKQQMFENKLIKSEEIKDTILQTVDLVSQETGEKEANIQAVDSEVGLTKEDTQEKLGEDDKTQKDVISNTSDVIGTCEAADVAQKVDEDSAEDTQSNDGKEVVEVGQKLINKPMVGPEAGGTKEVPIKEIVEMNEIEEGKNKEQAINSSENIMDINEEPGTTEGEEITESSSTEEMEVRSVVADTDQKALGSEVQDASKVTTQIDKEKKEIPVSIKKEPEVTVVSQPTEPQPVLIPSININSDSGENKEEIGSLSKTETILPPESENPKENDNDSGTGSTADTSSIDLNLSISSFLSKTKDSGSISLQETRRQKKTLKKTRKFIVDGVEVSVTTSKIVTDSDSKTEELRFLRRQELRELRFLQKEEQRAQQQLNSKLQQQREQIFRRFEQEMMSKKRQYDQEIENLEKQQKQTIERLEQEHTNRLRDEAKRIKGEQEKELSKFQNMLKNRKKEVINEVEKAPKELRKELMKRRKEELAQSQHAQEQEFVQKQQQELDGSLKKIIQQQKAELANIERECLNNKQQLMRAREAAIWELEERHLQEKHQLLKQQLKDQYFMQRHQLLKRHEKETEQMQRYNQRLIEELKNRQTQERARLPKIQRSEAKTRMAMFKKSLRINSTATPDQDRDKIKQFAAQEEKRQKNERMAQHQKHENQMRDLQLQCEANVRELHQLQNEKCHLLVEHETQKLKELDEEHSQELKEWREKLRPRKKTLEEEFARKLQEQEVFFKMTGESECLNPSTQSRISKFYPIPSLHSTGS", 
+     "mutations": [
+      {
+       "sample": "TCGA-BT-A3PH", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 912
+      }, 
+      {
+       "sample": "TCGA-13-0923", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "OV", 
+       "locus": 912
+      }, 
+      {
+       "sample": "TCGA-DK-A3IS", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 709
+      }, 
+      {
+       "sample": "TCGA-G2-A2ES", 
+       "mutation": "In_Frame_Del", 
+       "cancer": "BLCA", 
+       "locus": 33
+      }, 
+      {
+       "sample": "TCGA-A2-A0SY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 1058
+      }, 
+      {
+       "sample": "TCGA-A2-A0SY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 1100
+      }, 
+      {
+       "sample": "TCGA-BH-A0DK", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 454
+      }, 
+      {
+       "sample": "TCGA-AA-3710", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 569
+      }, 
+      {
+       "sample": "TCGA-AA-3877", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 306
+      }, 
+      {
+       "sample": "TCGA-AA-A010", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 429
+      }, 
+      {
+       "sample": "TCGA-AA-A010", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 1174
+      }, 
+      {
+       "sample": "TCGA-AA-A01I", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 1143
+      }, 
+      {
+       "sample": "TCGA-AA-A022", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 301
+      }, 
+      {
+       "sample": "TCGA-AA-A022", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 901
+      }, 
+      {
+       "sample": "TCGA-AG-A002", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 143
+      }, 
+      {
+       "sample": "TCGA-AG-A002", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 622
+      }, 
+      {
+       "sample": "TCGA-AG-A002", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 490
+      }, 
+      {
+       "sample": "TCGA-06-2563", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "GBM", 
+       "locus": 400
+      }, 
+      {
+       "sample": "TCGA-27-1835", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "GBM", 
+       "locus": 151
+      }, 
+      {
+       "sample": "TCGA-CV-7245", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "HNSC", 
+       "locus": 625
+      }, 
+      {
+       "sample": "TCGA-B2-4099", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "KIRC", 
+       "locus": 134
+      }, 
+      {
+       "sample": "TCGA-B2-5641", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 63
+      }, 
+      {
+       "sample": "TCGA-05-4396", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 802
+      }, 
+      {
+       "sample": "TCGA-05-4396", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 1009
+      }, 
+      {
+       "sample": "TCGA-05-4432", 
+       "mutation": "Splice_Site", 
+       "cancer": "LUAD", 
+       "locus": 783
+      }, 
+      {
+       "sample": "TCGA-17-Z042", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 878
+      }, 
+      {
+       "sample": "TCGA-49-6745", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 35
+      }, 
+      {
+       "sample": "TCGA-49-6767", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 86
+      }, 
+      {
+       "sample": "TCGA-37-4135", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 212
+      }, 
+      {
+       "sample": "TCGA-39-5037", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 615
+      }, 
+      {
+       "sample": "TCGA-66-2727", 
+       "mutation": "Splice_Site", 
+       "cancer": "LUSC", 
+       "locus": 1045
+      }, 
+      {
+       "sample": "TCGA-85-6561", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 1004
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 157
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 629
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 891
+      }, 
+      {
+       "sample": "TCGA-BG-A0LX", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 891
+      }, 
+      {
+       "sample": "TCGA-AP-A0LM", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 32
+      }, 
+      {
+       "sample": "TCGA-AP-A0LM", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 853
+      }, 
+      {
+       "sample": "TCGA-AX-A05Z", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 689
+      }, 
+      {
+       "sample": "TCGA-AX-A063", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 535
+      }, 
+      {
+       "sample": "TCGA-AX-A0J0", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 330
+      }, 
+      {
+       "sample": "TCGA-AX-A0J0", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 381
+      }, 
+      {
+       "sample": "TCGA-B5-A0JY", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 437
+      }, 
+      {
+       "sample": "TCGA-B5-A0K8", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 930
+      }, 
+      {
+       "sample": "TCGA-B5-A11H", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 634
+      }, 
+      {
+       "sample": "TCGA-B5-A11H", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1102
+      }, 
+      {
+       "sample": "TCGA-BS-A0TC", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 487
+      }, 
+      {
+       "sample": "TCGA-BS-A0UF", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 75
+      }, 
+      {
+       "sample": "TCGA-BS-A0UJ", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 456
+      }, 
+      {
+       "sample": "TCGA-BS-A0UV", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 1113
+      }, 
+      {
+       "sample": "TCGA-D1-A103", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 302
+      }, 
+      {
+       "sample": "TCGA-D1-A15X", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 5
+      }, 
+      {
+       "sample": "TCGA-D1-A163", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 947
+      }, 
+      {
+       "sample": "TCGA-D1-A16X", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 460
+      }, 
+      {
+       "sample": "TCGA-D1-A17Q", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 17
+      }
+     ], 
+     "length": 1235, 
+     "domains": [
+      {
+       "start": 1029, 
+       "end": 1160, 
+       "name": "PKK"
+      }
+     ], 
+     "gene": "SLK"
+    }
+   ], 
+   "gene": "SLK"
+  }, 
+  {
+   "transcripts": [
+    {
+     "name": "ENST00000354911", 
+     "sequence": "MVMYARKQQRLSDGCHDRRGDSQPYQALKYSSKSHPSSGDHRHEKMRDAGDPSPPNKMLRRSDSPENKYSDSTGHSKAKNVHTHRVRERDGGTSYSPQENSHNHSALHSSNSHSSNPSNNPSKTSDAPYDSADDWSEHISSSGKKYYYNCRTEVSQWEKPKEWLEREQRQKEANKMAVNSFPKDRDYRREVMQATATSGFASGMEDKHSSDASSLLPQNILSQTSRHNDRDYRLPRAETHSSSTPVQHPIKPVVHPTATPSTVPSSPFTLQSDHQPKKSFDANGASTLSKLPTPTSSVPAQKTERKESTSGDKPVSHSCTTPSTSSASGLNPTSAPPTSASAVPVSPVPQSPIPPLLQDPNLLRQLLPALQATLQLNNSNVDISKINEVLTAAVTQASLQSIIHKFLTAGPSAFNITSLISQAAQLSTQAQPSNQSPMSLTSDASSPRSYVSPRISTPQTNTVPIKPLISTPPVSSQPKVSTPVVKQGPVSQSATQQPVTADKQQGHEPVSPRSLQRSSSQRSPSPGPNHTSNSSNASNATVVPQNSSARSTCSLTPALAAHFSENLIKHVQGWPADHAEKQASRLREEAHNMGTIHMSEICTELKNLRSLVRVCEIQATLREQRILFLRQQIKELEKLKNQNSFMV", 
+     "mutations": [
+      {
+       "sample": "TCGA-BT-A20N", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 86
+      }, 
+      {
+       "sample": "TCGA-BT-A3PJ", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 358
+      }, 
+      {
+       "sample": "TCGA-FD-A3NA", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 360
+      }, 
+      {
+       "sample": "TCGA-G2-A2EJ", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 622
+      }, 
+      {
+       "sample": "TCGA-GV-A3JZ", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "BLCA", 
+       "locus": 316
+      }, 
+      {
+       "sample": "TCGA-A8-A06X", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 381
+      }, 
+      {
+       "sample": "TCGA-AN-A0FD", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "BRCA", 
+       "locus": 76
+      }, 
+      {
+       "sample": "TCGA-BH-A0E0", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 529
+      }, 
+      {
+       "sample": "TCGA-E2-A10C", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "BRCA", 
+       "locus": 629
+      }, 
+      {
+       "sample": "TCGA-AA-3516", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 322
+      }, 
+      {
+       "sample": "TCGA-AA-3977", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 423
+      }, 
+      {
+       "sample": "TCGA-AA-3984", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 600
+      }, 
+      {
+       "sample": "TCGA-AG-3892", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 277
+      }, 
+      {
+       "sample": "TCGA-AP-A056", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 277
+      }, 
+      {
+       "sample": "TCGA-AG-A036", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "COADREAD", 
+       "locus": 442
+      }, 
+      {
+       "sample": "TCGA-CR-6491", 
+       "mutation": "Splice_Site", 
+       "cancer": "HNSC", 
+       "locus": 127
+      }, 
+      {
+       "sample": "TCGA-B0-4714", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 102
+      }, 
+      {
+       "sample": "TCGA-BP-4781", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 363
+      }, 
+      {
+       "sample": "TCGA-BP-4992", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "KIRC", 
+       "locus": 610
+      }, 
+      {
+       "sample": "TCGA-BP-5001", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "KIRC", 
+       "locus": 159
+      }, 
+      {
+       "sample": "TCGA-AB-3001", 
+       "mutation": "Splice_Site", 
+       "cancer": "LAML", 
+       "locus": 582
+      }, 
+      {
+       "sample": "TCGA-AB-3009", 
+       "mutation": "Frame_Shift_Ins", 
+       "cancer": "LAML", 
+       "locus": 87
+      }, 
+      {
+       "sample": "TCGA-05-4389", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 530
+      }, 
+      {
+       "sample": "TCGA-05-4397", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 554
+      }, 
+      {
+       "sample": "TCGA-17-Z026", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 306
+      }, 
+      {
+       "sample": "TCGA-17-Z026", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 524
+      }, 
+      {
+       "sample": "TCGA-35-3621", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 250
+      }, 
+      {
+       "sample": "TCGA-35-3621", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 289
+      }, 
+      {
+       "sample": "TCGA-44-6146", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "LUAD", 
+       "locus": 459
+      }, 
+      {
+       "sample": "TCGA-66-2778", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 459
+      }, 
+      {
+       "sample": "TCGA-18-3409", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "LUSC", 
+       "locus": 128
+      }, 
+      {
+       "sample": "TCGA-13-0890", 
+       "mutation": "Splice_Site", 
+       "cancer": "OV", 
+       "locus": 479
+      }, 
+      {
+       "sample": "TCGA-AP-A051", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 237
+      }, 
+      {
+       "sample": "TCGA-AP-A059", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 342
+      }, 
+      {
+       "sample": "TCGA-AP-A0LM", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 385
+      }, 
+      {
+       "sample": "TCGA-AP-A0LM", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 531
+      }, 
+      {
+       "sample": "TCGA-AX-A05Z", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 318
+      }, 
+      {
+       "sample": "TCGA-AX-A0J1", 
+       "mutation": "Frame_Shift_Del", 
+       "cancer": "UCEC", 
+       "locus": 340
+      }, 
+      {
+       "sample": "TCGA-BS-A0UF", 
+       "mutation": "Nonsense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 513
+      }, 
+      {
+       "sample": "TCGA-BS-A0UV", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 590
+      }, 
+      {
+       "sample": "TCGA-D1-A15X", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 187
+      }, 
+      {
+       "sample": "TCGA-D1-A163", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 185
+      }, 
+      {
+       "sample": "TCGA-D1-A16X", 
+       "mutation": "Missense_Mutation", 
+       "cancer": "UCEC", 
+       "locus": 114
+      }
+     ], 
+     "length": 647, 
+     "domains": [], 
+     "gene": "WAC"
+    }
+   ], 
+   "gene": "WAC"
+  }
+ ]
+}
