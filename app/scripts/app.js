@@ -14,7 +14,7 @@ define(['crossfilter', 'd3'], function (crossfilter, d3) {
 
           COL_WIDTH = 2,
 
-          LABEL_PADDING = 5,
+          LABEL_PADDING = 10,
 
           CELL_COLOR = d3.scale.category10();
 
@@ -140,6 +140,8 @@ define(['crossfilter', 'd3'], function (crossfilter, d3) {
           // sampleGenes = sample.dimension(function(d){ return d.genes; }),
           svg = d3.select(oncoElem).append('svg');
 
+      // Determine the mutation frequency for each gene
+      // Use mutation frequency to determine gene ranking (most = first ranking)
       var geneFreq = getGeneMutationFrequency(samples),
           rank = Object.keys(geneFreq).sort(function(a,b) {
             var freqA = geneFreq[a],
@@ -158,8 +160,6 @@ define(['crossfilter', 'd3'], function (crossfilter, d3) {
       for (var i = 1; i < rows.length; i++) {
         rowKeys[rows[i][0]] = rank.indexOf(rows[i][0]); // i
       }
-      console.log(rowKeys);
-
 
       // Process the data
       console.log(data);
@@ -176,7 +176,9 @@ define(['crossfilter', 'd3'], function (crossfilter, d3) {
         .enter()
         .append('text')
           .attr('x', 10)
-          .attr('y', function(d) { return rowKeys[d] * ROW_HEIGHT; })
+          .attr('y', function(d) {
+            return rowKeys[d] * ROW_HEIGHT + ROW_HEIGHT;
+          })
           .style('color', '#ff0000')
           .text(function (d) { return d;});
 
@@ -201,7 +203,9 @@ define(['crossfilter', 'd3'], function (crossfilter, d3) {
           .attr('class', function(d) { return d.cancer;})
           .attr('height', ROW_HEIGHT)
           .attr('width', COL_WIDTH)
-          .attr('y', function(d) { return ROW_HEIGHT * (rowKeys[d.gene]-1);})
+          .attr('y', function(d) {
+            return ROW_HEIGHT * (rowKeys[d.gene]-1) + ROW_HEIGHT;
+          })
           .style('fill', function(d) {
             return CELL_COLOR(cancerTypes[d.cancer])
           });
